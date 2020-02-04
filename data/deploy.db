@@ -1,0 +1,1 @@
+{"ftpInfo":{"host":"192.168.52.131","name":"mike","password":"123456","port":21},"_id":"C5voxvdgydeTGBS5","deploys":[{"sort":1580723713405,"name":"1","mode":"差异化","siteDirectory":"F:\\1","ftpDirectory":"","taskId":"hYJIYn6YyyeWoO0g","lastDeployTime":{"$$date":1580736553324},"counter":5,"beforeHook":"1.ps1","afterHook":"2.ps1"}]}

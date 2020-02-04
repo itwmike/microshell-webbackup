@@ -1,0 +1,58 @@
+{
+  "id": "1624211",
+  "name": "lo-webbackup",
+  "font_family": "iconfont",
+  "css_prefix_text": "microshell-icon",
+  "description": "lo-webbackup",
+  "glyphs": [
+    {
+      "icon_id": "19746",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "57656",
+      "name": "还原",
+      "font_class": "huanyuan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1126657",
+      "name": "备份",
+      "font_class": "group23copy",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "1964684",
+      "name": "日志",
+      "font_class": "ccgl-kucunrizhi-4",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7088036",
+      "name": "容量",
+      "font_class": "rongliang",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "10223703",
+      "name": "部署",
+      "font_class": "icon-test",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12392789",
+      "name": "次数",
+      "font_class": "cishu",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}

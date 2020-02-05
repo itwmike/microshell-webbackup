@@ -42,7 +42,7 @@ npm run lint
 
 #### 运行截图
 
-![](./public/1.png)
+![avatar](./public/1.png)
 
 ![](./public/2.png)
 

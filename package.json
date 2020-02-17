@@ -1,8 +1,8 @@
 {
-  "name": "lo-webbackup",
+  "name": "microshell-webbackup",
   "version": "1.0.0",
   "author": "",
-  "description": "LO9 网站备份管理工具",
+  "description": "微壳网站备份管理工具",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
@@ -19,8 +19,8 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "LO9网站备份管理工具",
-    "appId": "com.limitcode.lo-webbackup",
+    "productName": "微壳网站备份管理工具",
+    "appId": "com.limitcode.microshell-webbackup",
     "directories": {
       "output": "build"
     },
